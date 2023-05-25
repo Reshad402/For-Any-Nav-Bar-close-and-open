@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+/* body{
 
-body{
-  background-color: rgb(5, 5, 69);
-  color: white;
-}
+} */
